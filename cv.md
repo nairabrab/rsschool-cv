@@ -33,8 +33,8 @@ if (I.hadAWorldOf(MyOwn)) {
  }
 ```
 ### Education:
-dropped out of Hogwarts due to too rational thinking
+dropped out of Hogwarts due to too rational thinking.
 
 
 ### English level:
-mgimo finished
+mgimo finished.
